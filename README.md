@@ -1,2 +1,2 @@
 # SortingAlgoritms
-This application allows choice between different list sorting algorithms through the Strategy Design Pattern for OO Programming.
+This application allows choice between different List Sorting Algorithms through the Strategy Design Pattern for OO Programming.
