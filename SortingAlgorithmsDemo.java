@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class SortingAlgorithmsDemo {
     public static void main(String[] args) {
         ArrayList<Integer> input = new ArrayList<>();
-        Context context = new Context(new MergeSort());
+        Context context = new Context(new SelectionSort());
         input.add(8);
         input.add(1);
         input.add(23);
