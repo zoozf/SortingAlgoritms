@@ -47,4 +47,9 @@ public class SelectionSort implements SortingAlgorithm {
     public long executionTime() {
         return end-start;
     }
+
+    @Override
+    public String getAlgorithmName() {
+        return "Selection Sort";
+    }
 }

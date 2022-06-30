@@ -37,4 +37,9 @@ public class BubbleSort implements SortingAlgorithm {
     public long executionTime() {
         return end-start;
     }
+
+    @Override
+    public String getAlgorithmName() {
+        return "Bubble Sort";
+    }
 }

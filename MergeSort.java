@@ -91,5 +91,9 @@ public class MergeSort implements SortingAlgorithm{
         return input;
     }
 
+    @Override
+    public String getAlgorithmName() {
+        return "Merge Sort";
+    }
 
 }
